@@ -175,11 +175,11 @@ const User = () => {
       <table border={1} cellPadding={10} cellSpacing={0}>
         <thead>
           <tr>
-            <th>Septiembre</th>
-            <th>Números de Boletas</th>
-            <th>Ventas en Efectivo</th>
-            <th>Ventas con Tarjeta</th>
-            <th>Total Ventas</th>
+            <th>Mes</th>
+            <th>Rubro</th>
+            <th>Numero Boleta</th>
+            <th>Tipo de Venta</th>
+            <th>Total Boleta</th>
             <th>Acciones</th>
           </tr>
         </thead>
